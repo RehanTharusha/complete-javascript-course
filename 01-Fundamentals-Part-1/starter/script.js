@@ -24,4 +24,26 @@
 //     console.log("Get a job!");
 // }
 
+// // DolphinsTotal = 96 + 108 + 189
+// DolphinsTotal = 96 + 108 + 189
+
+// // KoalasTotal =  88 + 91 + 210
+// KoalasTotal =  88 + 91 + 210
+
+
+// scoreDolphins = DolphinsTotal/3
+// scoreKoalas = KoalasTotal/3
+
+// if (scoreKoalas === scoreDolphins && scoreDolphins >= 100) {
+//     console.log("Both win");
+// }else if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
+//     console.log("Dolphins win");
+// }else if (scoreKoalas > scoreDolphins && scoreKoalas >= 100) {
+//     console.log("Koala win");
+// }
+
+
+// // console.log(scoreDolphins);
+
+
 
