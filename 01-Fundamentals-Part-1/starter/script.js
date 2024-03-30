@@ -46,4 +46,9 @@
 // // console.log(scoreDolphins);
 
 
+let bill = 275
 
+const tip = bill >= 50 && bill <= 300 ? bill*15/100 : bill*20/100 
+
+console.log(tip);
+console.log(`The bill was $${bill}, and the tip was $${tip} and the total value is $${bill + tip}`);
